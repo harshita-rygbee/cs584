@@ -11,6 +11,7 @@ Original tutorial by Amazon with this example: https://developer.amazon.com/blog
 
 Alexa skills developer website: https://developer.amazon.com/alexa
 
+##Flow diagram for skill
 
 ![alt text](https://github.com/harshita-rygbee/cs584/blob/master/architecture.jpg)
 

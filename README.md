@@ -8,6 +8,9 @@
 
 ![alt text](https://github.com/harshita-rygbee/cs584/blob/master/architecture.jpg)
 
+## System architecture
+
+![alt text](https://github.com/harshita-rygbee/cs584/blob/master/systemarchitecture.jpg)
 ## Links:
 MathCS servers documentation: http://www.mathcs.emory.edu/CS584Spring2019/
 

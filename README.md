@@ -5,7 +5,7 @@
   3. Using ngrok to make the skill publically accessible
 
 ## Links:
-Link to documentation: http://www.mathcs.emory.edu/CS584Spring2019/
+MathCS servers documentation: http://www.mathcs.emory.edu/CS584Spring2019/
 
-Link to original tutorial by Amazon with this example: https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development
+Original tutorial by Amazon with this example: https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development
 

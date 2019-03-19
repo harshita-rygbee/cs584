@@ -8,6 +8,11 @@
 
 ![alt text](https://github.com/harshita-rygbee/cs584/blob/master/architecture.jpg)
 
+You can use the Intents provided by Amazon, or build your own intent classifier.
+
+## System architecture
+
+![alt text](https://github.com/harshita-rygbee/cs584/blob/master/systemarchitecture.jpg)
 ## Links:
 MathCS servers documentation: http://www.mathcs.emory.edu/CS584Spring2019/
 
